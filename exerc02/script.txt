@@ -1,0 +1,1 @@
+docker run -d -p 8080:80 -v C:\Users\Pichau\Documents\exercicios-docker-PB-ABR2025\exerc02:/usr/share/nginx/html:ro --name meu-nginx-customizado nginx
