@@ -1,1 +1,2 @@
 # exercicios-docker-PB-ABR2025
+Em cada pasta, você encontrará um arquivo `README.md` com instruções específicas para o exercício. Siga as orientações para completar cada tarefa e aprender mais sobre o Docker.
